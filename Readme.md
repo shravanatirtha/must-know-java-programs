@@ -1,6 +1,6 @@
 ### Important Topics
 
-#### Array
+### Array
 
 1. Find maximum and minimum
 2. Make larger number
