@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinarySearch2D",
+            "request": "launch",
+            "mainClass": "Array.BinarySearch2D",
+            "projectName": "must-know-java-programs_9fedb2ea"
+        },
+        {
+            "type": "java",
             "name": "Launch LeastDifference",
             "request": "launch",
             "mainClass": "Array.LeastDifference",
