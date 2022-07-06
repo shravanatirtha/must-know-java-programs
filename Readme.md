@@ -32,3 +32,14 @@
 2. Next power of two
 3. Total 1s in numbers till n
 4. Swap without temp
+
+### Linked list
+
+1. Reverse linked list iterative
+2. Reverse linked list recursive
+3. Fold a linked list
+4. Reverse k nodes in linked list
+5. Find loop in linked list
+6. Linked list Y shape
+7. Kth node from end
+8. Get find delete in O(1)
