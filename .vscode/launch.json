@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ReverseRecursive",
+            "request": "launch",
+            "mainClass": "LinkedList.ReverseRecursive",
+            "projectName": "must-know-java-programs_9fedb2ea"
+        },
+        {
+            "type": "java",
             "name": "Launch OddEven",
             "request": "launch",
             "mainClass": "Bits.OddEven",
