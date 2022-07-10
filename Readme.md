@@ -43,3 +43,18 @@
 6. Linked list Y shape
 7. Kth node from end
 8. Get find delete in O(1)
+
+### Dynamic Programming
+1. Two numbers sum up to k
+2. Two numbers sum up to k unsorted
+3. Any numbers sum up to k iterative
+4. Any numbers sum up to k recursive
+5. Container loading recursive
+6. Largest palindrome dynamic
+7. Longest common subsequence
+8. Gold coins in pots game
+9. Partition array equal sum
+10. Find subset with given average
+11. Share price max profit recursive
+12. Increasing array subsequence
+13. Jumping frog problem
