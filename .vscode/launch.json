@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TwoSumSortedK",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.TwoSumSortedK",
+            "projectName": "must-know-java-programs_9fedb2ea"
+        },
+        {
+            "type": "java",
             "name": "Launch TwoSumK",
             "request": "launch",
             "mainClass": "DynamicProgramming.TwoSumK",
