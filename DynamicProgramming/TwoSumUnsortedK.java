@@ -2,7 +2,7 @@ package DynamicProgramming;
 
 import java.util.*;
 
-public class TwoSumSortedK {
+public class TwoSumUnsortedK {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -10,11 +10,11 @@ public class TwoSumSortedK {
         for (int i = 0; i < n; i++)
             nums[i] = sc.nextInt();
         int k = sc.nextInt();
-        twoSumSorted(nums, n, k);
+        twoSumUnsorted(nums, n, k);
         sc.close();
     }
 
-    static void twoSumSorted(int[] nums, int n, int k) {
+    static void twoSumUnsorted(int[] nums, int n, int k) {
         ArrayList<Integer> map = new ArrayList<>();
         for (int i = 0; i < n; i++)
             map.add(nums[i]);
