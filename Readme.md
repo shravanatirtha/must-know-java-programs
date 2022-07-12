@@ -1,5 +1,5 @@
 ### Must know topics
-
+Covers important questions from Leetcode and GeeksForGeeks
 ### Array
 
 1. Find maximum and minimum
